@@ -1,0 +1,2 @@
+ 3956 29104 92557 num_trening.txt
+ 3971 29235 92907 num_trening.txt
