@@ -20225,64 +20225,26 @@ def def def def def def def
 769 769 769 769 769 769 769
 770 770 770 770 770 770 770
 770 770 770 770 770 770 770
+770 770 770 770 770 770 770
+770 770 770 770 770 770 770
+771 771 771 771 771 771 771
+771 771 771 771 771 771 771
+772 772 772 772 772 772 772
+772 772 772 772 772 772 772
+773 773 773 773 773 773 773
+773 773 773 773 773 773 773
+774 774 774 774 774 774 774
+774 774 774 774 774 774 774
+775 775 775 775 775 775 775
+775 775 775 775 775 775 775
+776 776 776 776 776 776 776
+776 776 776 776 776 776 776
+777 777 777 777 777 777 777
+777 777 777 777 777 777 777
+778 778 778 778 778 778 778
+778 778 778 778 778 778 778
+779 779 779 779 779 779 779
+779 779 779 779 779 779 779
+780 780 780 780 780 780 780
+780 780 780 780 780 780 780
 
-apturl                 0.5.2
-argon2-cffi            21.3.0
-argon2-cffi-bindings   21.2.0
-asgiref                3.5.2
-asttokens              2.0.5
-attrs                  21.4.0
-backcall               0.2.0
-bcrypt                 3.2.0
-beautifulsoup4         4.11.1
-black                  22.6.0
-bleach                 5.0.1
-blessings              1.7
-blinker                1.4
-block                  0.0.5
-bpython                0.22.1
-Brlapi                 0.8.3
-certifi                2020.6.20
-cffi                   1.15.1
-chardet                4.0.0
-c
-apturl                 0.5.2
-argon2-cffi            21.3.0
-argon2-cffi-bindings   21.2.0
-asgiref                3.5.2
-asttokens              2.0.5
-attrs                  21.4.0
-backcall               0.2.0
-bcrypt                 3.2.0
-beautifulsoup4         4.11.1
-black                  22.6.0
-bleach                 5.0.1
-blessings              1.7
-blinker                1.4
-block                  0.0.5
-bpython                0.22.1
-Brlapi                 0.8.3
-certifi                2020.6.20
-cffi                   1.15.1
-chardet                4.0.0
-c
-apturl                 0.5.2
-argon2-cffi            21.3.0
-argon2-cffi-bindings   21.2.0
-asgiref                3.5.2
-asttokens              2.0.5
-attrs                  21.4.0
-backcall               0.2.0
-bcrypt                 3.2.0
-beautifulsoup4         4.11.1
-black                  22.6.0
-bleach                 5.0.1
-blessings              1.7
-blinker                1.4
-block                  0.0.5
-bpython                0.22.1
-Brlapi                 0.8.3
-certifi                2020.6.20
-cffi                   1.15.1
-chardet                4.0.0
-c
