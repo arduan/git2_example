@@ -3990,4 +3990,31 @@ def name():
 (555) (555) (555) (555)
 Svetlana
 Vitalik
+manage.py
+python
+django
+manage.py
+python
+django
+manage.py
+python
+django
+manage.py
+python
+django
+manage.py
+python
+django
+manage.py
+python
+django
+manage.py
+python
+django
+manage.py
+python
+django
+manage.py
+python
+django
 
