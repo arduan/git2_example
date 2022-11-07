@@ -5,7 +5,6 @@ print('Hello Sveta')
 
 for i in range(1,11): 
     print(i, end=',')
-    print('Привет Виталий')
 
 
 a = 123
