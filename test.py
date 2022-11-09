@@ -6,9 +6,8 @@ print('Hello Sveta')
 for i in range(1,11): 
     print(i, end=',')
 
+a = [1, 2, 3, 4, 5]
+print(a[3])
 
-a = 123
-b = 123
-print(a is b)
-
-print(a>b) 
+a.append(['vitalik', 'sveta'])
+print(a)
