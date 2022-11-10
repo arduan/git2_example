@@ -7,4 +7,3 @@ def name():
     return 'Hello Arduan'
 
 
-print(name())
