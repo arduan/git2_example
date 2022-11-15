@@ -11,3 +11,9 @@ print(a[3])
 
 a.append(['vitalik', 'sveta'])
 print(a)
+
+x = [3, 4, 5]
+result = [i*i for i in x]
+print(result)
+
+        
