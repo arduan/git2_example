@@ -3,6 +3,7 @@
 print('Hello Vitalik')
 print('Hello Sveta')
 
+<<<<<<< HEAD
 for i in range(1,11): 
     print(i, end=',')
 
@@ -17,3 +18,9 @@ result = [i*i for i in x]
 print(result)
 
         
+=======
+def name():
+    return 'Hello Arduan'
+
+
+>>>>>>> Sveta
