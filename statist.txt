@@ -1,4 +1,7 @@
  3956 29104 92557 num_trening.txt
 Good commit
+
  3971 29235 92907 num_trening.txt
+
+print(123)
 
