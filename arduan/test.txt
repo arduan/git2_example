@@ -1,9 +1,0 @@
-manage.py
-runserver
-migrate
-mackmigration
-goot branch
-
-vitalik
-sveta
-
